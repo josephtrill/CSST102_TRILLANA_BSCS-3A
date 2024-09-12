@@ -3,4 +3,4 @@
 ### Laboratory Exercise No. 1
 <a href="3A_TRILLANA_EXER1.ipynb">exercise 1</a>
 ### Machine Problem No. 2
-<a href="3A_TRILLANA_EXER2.ipynb">MP 2</a>
+<a href="3A_TRILLANA_MP2.ipynb">MP 2</a>
